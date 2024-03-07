@@ -79,3 +79,9 @@ http://kb1.ottclub.info:443/kitty/c701.stream/playlist.m3u8
 http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY34-C0135.m3u8
 #EXTINF:-1 tvg-id="JP4" tvg-logo="https://i1.wp.com/img.isuper.tv/live-tv/channel/goldsuntv-live.jpg" group-title="Japanese",國興衛視4
 http://fu2.ottclub.info:1935/live/c213.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+#EXTINF:-1 tvg-id="JP5" tvg-logo="https://i1.wp.com/img.isuper.tv/live-tv/channel/goldsuntv-live.jpg" group-title="Japanese",國興衛視5
+http://fu3.ottclub.info:1935/live/c713.stream/playlist.m3u8?a=5729e7cb&b=CV7FkpH1L1uTKMIHXI18zA
+#EXTINF:-1 tvg-id="JP6" tvg-logo="https://i1.wp.com/img.isuper.tv/live-tv/channel/goldsuntv-live.jpg" group-title="Japanese",國興衛視6
+http://fu2.ottclub.info:1935/live/c213.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="JP7" tvg-logo="https://i1.wp.com/img.isuper.tv/live-tv/channel/goldsuntv-live.jpg" group-title="Japanese",國興衛視7
+http://fu3.ottclub.info:1935/live/c713.stream/playlist.m3u8
