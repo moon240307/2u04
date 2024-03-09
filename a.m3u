@@ -1,0 +1,74 @@
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="新聞",TTV News (台视新聞台)
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="新聞",FTV News (民視新聞台)
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="新聞",TVBS News (TVBS新聞台)
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="新聞",SET iNews
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="新聞",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="10.tw" tvg-logo="" group-title="新聞",TVBS 新聞台
+https://hls.watchtv.uk/tvbs_n/playlist-17.m3u8a?t=1709985016&token=f195c3e237428e32b7d291d5a5c4316b
+#EXTINF:-1 tvg-id="11.tw" tvg-logo="" group-title="新聞",東森新聞
+https://hls.watchtv.uk/ettvnews/playlist-17.m3u8a?t=1709985242&token=e6009936f095d4a9109c3b7c0f7035fa
+#EXTINF:-1 tvg-id="12.tw" tvg-logo="" group-title="新聞",東森財經新聞
+https://hls.watchtv.uk/ettvcaijing_twn/playlist-17.m3u8a?t=1709985282&token=e6ce6584018ce4d871cee6a49cfa39e8
+#EXTINF:-1 tvg-id="13.tw" tvg-logo="" group-title="新聞",壹新聞
+https://hls.watchtv.uk/yinews/playlist-17.m3u8a?t=1709985322&token=09dadbc14b5afe9814d799e8b0b4ac41
+#EXTINF:-1 tvg-id="14.tw" tvg-logo="" group-title="新聞",中視新聞
+https://hls.watchtv.uk/zhongshinews_twn/playlist-17.m3u8a?t=1709985427&token=01c9d1f57484df4120789370cf5fd6ab
+#EXTINF:-1 tvg-id="15.tw" tvg-logo="" group-title="新聞",年代新聞
+https://hls.watchtv.uk/niandainews_twn/playlist-17.m3u8a?t=1709985514&token=4f9e3fd796fc69fdc020e3306c162061
+#EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="新聞",MNews (鏡電視新聞台)
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="大愛",DaAi1 (大愛1) (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="大愛",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="2.tw" tvg-logo="" group-title="日本",緯來日本台
+https://hls.watchtv.uk/videolandjapan/playlist-17.m3u8a?t=1709984515&token=dea966c26b77166b63343c41c452e237
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="娛樂",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="1.tw" tvg-logo="" group-title="娛樂",中天綜合台
+https://hls.watchtv.uk/ctizhonghe/playlist-17.m3u8a?t=1709984343&token=c0b4f8d8e0b32db21e761cf0385844e9
+#EXTINF:-1 tvg-id="3.tw" tvg-logo="" group-title="娛樂",緯來綜合台
+https://hls.watchtv.uk/videolandzong/playlist-17.m3u8a?t=1709984578&token=2e34c9870eee288244b06d3a795ba592
+#EXTINF:-1 tvg-id="4.tw" tvg-logo="" group-title="娛樂",東森綜合台
+https://hls.watchtv.uk/ettvzhonghe/playlist-17.m3u8a?t=1709984645&token=029d765caba93285468644aaa61f909e
+#EXTINF:-1 tvg-id="5.tw" tvg-logo="" group-title="娛樂",東森超視
+https://hls.watchtv.uk/ettvsuper/playlist-17.m3u8a?t=1709984699&token=25b1d606761625994a09ed16d0a42e07
+#EXTINF:-1 tvg-id="6.tw" tvg-logo="" group-title="娛樂",八大綜合台
+https://hls.watchtv.uk/badazhonghe/playlist-17.m3u8a?t=1709984746&token=f89648cc96ac279ad1bf265e31ce4213
+#EXTINF:-1 tvg-id="7.tw" tvg-logo="" group-title="娛樂",八大第一台
+https://hls.watchtv.uk/badafirst/playlist-17.m3u8a?t=1709984797&token=d6626ede423e4e93e1112d0864ef5da6
+#EXTINF:-1 tvg-id="8.tw" tvg-logo="" group-title="娛樂",ELTA綜合
+https://hls.watchtv.uk/eltazonghe/playlist-17.m3u8a?t=1709984868&token=40bdeb70699e3702d3e42ec3b4584471
+#EXTINF:-1 tvg-id="9.tw" tvg-logo="" group-title="娛樂",TVBS
+https://hls.watchtv.uk/tvbs/playlist-17.m3u8a?t=1709984955&token=a373d2398874a15262d37af4346ff3bf
+#EXTINF:-1 tvg-id="21.tw" tvg-logo="" group-title="娛樂",TVBS 歡樂台
+https://hls.watchtv.uk/tvbshuanle_twn/playlist-17.m3u8a?t=1709986433&token=0db57680848bdd9e9efd166834fa41f7
+#EXTINF:-1 tvg-id="26.tw" tvg-logo="" group-title="娛樂",中天娛樂台
+https://hls.watchtv.uk/ctient/playlist-17.m3u8a?t=1709986941&token=ea0a6328ca2cf9fc89e65871eaecb2bb
+#EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="娛樂",天才衝衝衝 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="19.tw" tvg-logo="" group-title="戲劇",東森戲劇
+https://hls.watchtv.uk/ettvdrama/playlist-17.m3u8a?t=1709986205&token=02435456b222d3f9d45db74b84a0f072
+#EXTINF:-1 tvg-id="22.tw" tvg-logo="" group-title="戲劇",ELTA 影劇
+https://hls.watchtv.uk/eltayingju_twn/playlist-17.m3u8a?t=1709986508&token=5e5cc405a8e4a40fd4fb8e13d1b0a6b5
+#EXTINF:-1 tvg-id="24.tw" tvg-logo="" group-title="戲劇",EYE戲劇台
+https://hls.watchtv.uk/eyetvxiju_twn/playlist-17.m3u8a?t=1709986696&token=a35fa5f29a6a40787ff89d2c388a5d8f
+#EXTINF:-1 tvg-id="25.tw" tvg-logo="" group-title="戲劇",八大戲劇台
+https://hls.watchtv.uk/badadrama/playlist-17.m3u8a?t=1709986786&token=fccfc0aea163c63b5bdeb52b08d4a499
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="電影",東森電影
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+#EXTINF:-1 tvg-id="18.tw" tvg-logo="" group-title="電影",東森洋片
+https://hls.watchtv.uk/ettvwestern/playlist-17.m3u8a?t=1709986155&token=a934277fa4d57bf9e4ea27d4cbcdd47b
+#EXTINF:-1 tvg-id="16.tw" tvg-logo="" group-title="電影",LTV龍華電影
+https://hls.watchtv.uk/xingwei_movie/playlist-17.m3u8a?t=1709985882&token=ff773d511a8f18966bd992c67ecfd65b
+#EXTINF:-1 tvg-id="17.tw" tvg-logo="" group-title="電影",緯來電影台
+https://hls.watchtv.uk/videolandmovie/playlist-17.m3u8a?t=1709985956&token=8c1a64215fa622e97c434a104d595ddd
+#EXTINF:-1 tvg-id="20.tw" tvg-logo="" group-title="電影",好萊塢電影台
+https://hls.watchtv.uk/hollywoodmovies_twn/playlist-17.m3u8a?t=1709986325&token=17496e218b9bb227531929eaf804f957
+#EXTINF:-1 tvg-id="23.tw" tvg-logo="" group-title="電影",龍祥電影台
+https://hls.watchtv.uk/lungxiangtime_twn/playlist-17.m3u8a?t=1709986583&token=5c0c8c840bcad1390e506ac61bb7e14b
