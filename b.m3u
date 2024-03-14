@@ -1,0 +1,30 @@
+#EXTINF:-1 tvg-id="DaAi1.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="大愛",DaAi1 (大愛1) (720p)
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DaAi2.tw" tvg-logo="https://i.imgur.com/KdJi9af.png" group-title="大愛",DaAi2 (大愛2) (720p)
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="12" tvg-logo="" group-title="老三台",華視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 tvg-id="34" tvg-logo="" group-title="老三台",中視HD
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+#EXTINF:-1 tvg-id="42" tvg-logo="" group-title="老三台",中視
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV42.m3u8
+#EXTINF:-1 tvg-id="9" tvg-logo="" group-title="老三台",中視新聞
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw" tvg-logo="https://i.imgur.com/AfkK0gv.png" group-title="新聞",TTV News (台視新聞台)
+https://ythls.armelin.one/channel/UC8ROUUjHzEQm-ndb69CX8Ww.m3u8
+#EXTINF:-1 tvg-id="FTVNews.tw" tvg-logo="https://i.imgur.com/j9Gebr5.png" group-title="新聞",FTV News (民視新聞台)
+https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
+#EXTINF:-1 tvg-id="TVBSNews.tw" tvg-logo="https://i.imgur.com/171lwfg.png" group-title="新聞",TVBS News (TVBS新聞台)
+https://ythls.armelin.one/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
+#EXTINF:-1 tvg-id="SETiNews.tw" tvg-logo="https://i.imgur.com/NaOUWKf.png" group-title="新聞",SET iNews (三立新聞台)
+https://ythls.armelin.one/channel/UCoNYj9OFHZn3ACmmeRCPwbA.m3u8
+#EXTINF:-1 tvg-id="GlobalNews.tw" tvg-logo="https://i.imgur.com/Q1Mrvjj.png" group-title="新聞",寰宇新聞台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 tvg-id="mnews.tw" tvg-logo="https://i.ytimg.com/vi/5n0y6b0Q25o/hqdefault_live.jpg?sqp=-oaymwEjCPYBEIoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXIMr1Cb8PO2vs9ZtapIAlSro4cw" group-title="新聞",MNews (鏡電視新聞台)
+https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
+#EXTINF:-1 tvg-id="TVBSAsia.tw" tvg-logo="https://i.imgur.com/4S1rkhm.png" group-title="娛樂",TVBS Asia (1080p)
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="GeniusGoGoGo.tw" tvg-logo="https://i.imgur.com/GGdnGqH.png" group-title="娛樂",天才衝衝衝 (1080p)
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw" tvg-logo="https://i.imgur.com/ItNGE1z.png" group-title="電影",東森電影
+https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
